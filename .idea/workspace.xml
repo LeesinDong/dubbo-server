@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b1e09a7-6aa7-4b76-bc9a-52ae8e8ed5e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pay-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-server.iml" afterDir="false" />
-    </list>
+    <list default="true" id="4b1e09a7-6aa7-4b76-bc9a-52ae8e8ed5e7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/pay-api/target/" />
@@ -56,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pay-api/src/main/java/com/leesin/IPayService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="336">
               <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -159,105 +156,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="pay-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pay-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pay-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pay-service" type="462c0819:PsiDirectoryNode" />
-              <item name="pay-api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pay-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pay-service" type="462c0819:PsiDirectoryNode" />
-              <item name="pay-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pay-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pay-service" type="462c0819:PsiDirectoryNode" />
-              <item name="pay-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pay-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pay-service" type="462c0819:PsiDirectoryNode" />
-              <item name="pay-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pay-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pay-service" type="462c0819:PsiDirectoryNode" />
-              <item name="pay-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="leesin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pay-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pay-service" type="462c0819:PsiDirectoryNode" />
-              <item name="pay-provider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pay-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pay-service" type="462c0819:PsiDirectoryNode" />
-              <item name="pay-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pay-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pay-service" type="462c0819:PsiDirectoryNode" />
-              <item name="pay-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pay-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pay-service" type="462c0819:PsiDirectoryNode" />
-              <item name="pay-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pay-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pay-service" type="462c0819:PsiDirectoryNode" />
-              <item name="pay-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="leesin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pay-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pay-service" type="462c0819:PsiDirectoryNode" />
-              <item name="pay-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pay-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pay-service" type="462c0819:PsiDirectoryNode" />
-              <item name="pay-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -324,16 +224,17 @@
       <updated>1587278873849</updated>
       <workItem from="1587278875196" duration="9680000" />
       <workItem from="1587304081074" duration="84000" />
+      <workItem from="1587304205362" duration="264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9764000" />
+    <option name="totallyTimeSpent" value="10028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1711" y="0" width="1736" height="712" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25894988" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26193318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -348,7 +249,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.46193773" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.46193773" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.5595855" />
@@ -395,7 +296,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pay-api/src/main/java/com/leesin/IPayService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="336">
           <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
