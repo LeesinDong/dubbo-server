@@ -19,7 +19,10 @@
     <!--一个接口不能同时又两个协议-->
     <!--<dubbo:service interface="com.leesin.IPayService" ref="payService" registry="rg1" protocol="webservice"/>-->
     <!--<dubbo:service interface="com.leesin.IPayService" ref="payService" registry="rg1" protocol="rest"/>-->
-    <dubbo:service interface="com.leesin.IPayService" ref="payService" registry="rg1" protocol="dubbo"/>
+
+    <dubbo:service interface="com.leesin.IPayService" ref="payService" registry="rg1" protocol="dubbo" />
+    <dubbo:service interface="com.leesin.IPayService" ref="payService2" registry="rg1" protocol="dubbo" />
     <!--和本地一样实现服务-->
     <bean id="payService" class="com.leesin.PayServiceImpl"/>
+    <bean id="payService2" class="com.leesin.PayServiceImpl2"/>
 </beans>
